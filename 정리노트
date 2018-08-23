@@ -1,0 +1,77 @@
+
+자바란?
+    자바란 객체 지향 언어로 객체를 조작해 일을 시킨다.
+
+객체란?
+    각 객체는 특정 클래스에 속하며, 특정 클래스의 객체를 그 클래스의 instance라고 한다.
+
+메서드란?
+    메서드란 클래스 안에 선언된 함수이다.
+
+가시성?
+    public, private, default, protected
+
+패키지?
+    관련 있는 클래스를 모아 놓은 집합이다.
+
+System.out?
+    System.out은 표준 출력을 나타내는 객체이다.
+
+PrintStream?
+
+javac?
+    javac 명령어는 자바 소스 코드를 바이트 코드로 컴파일 한다.
+
+java?
+    java 명령으로 가상 머신을 구동하고 바이트 코드를 실행한다.
+
+Random?
+
+기본 타입?
+
+부호있는 정수 타입?
+
+Integer.MIN_VALUE, Integer.MAX_VALUE
+
+long 리터럴?
+16진수 리터럴?
+2진수 리터럴?
+
+부동소수점 타입?
+
+float 리터럴?
+double 리터럴?
+
+Double.POSITIVE_INFINITY?
+    1.0 / 0.0
+Double.NEGATIVE_INFINITY?
+
+Double.NaN?
+    0.0 / 0.0
+
+char 타입?
+UTF-16?
+유니코드?
+
+이스케이프?
+
+변수 선언?
+변수 초기화?
+
+상수?
+상수의 관례?
+상수의 초기화?
+
+열거형?
+
+Math?
+    Math.pow?
+    Math.sqrt?
+    Math.min
+    Math.max
+
+문자열?
+
+
+
+
